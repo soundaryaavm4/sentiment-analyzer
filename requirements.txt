@@ -1,0 +1,7 @@
+streamlit
+flask
+groq
+python-dotenv
+pandas
+requests
+PyPDF2
